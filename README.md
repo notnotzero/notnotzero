@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnotzero)](https://github.com/anuraghazra/github-readme-stats)
+[![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnotzero&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **notnotzero/notnotzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
