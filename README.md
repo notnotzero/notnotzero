@@ -3,7 +3,7 @@
 [![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnotzero&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notnotzero)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notnotzero&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **notnotzero/notnotzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
